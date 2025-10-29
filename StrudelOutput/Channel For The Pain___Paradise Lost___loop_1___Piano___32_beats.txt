@@ -1,0 +1,16 @@
+setcpm(120/4)
+$: note(`<
+[d2 d2 d2 d2 d2 d2 d2 d2] [d2 d2 d2 d2 d2 d2 d2 d2] [d2 d2 d2 d2 d2 d2 d2 d2] [d2 d2 d2 d2 d2 d2 d2 d2]
+[d2 d2 d2 d2 d2 d2 d2 d2] [d2 d2 d2 d2 d2 d2 d2 d2] [d2 d2 d2 d2 d2 d2 d2 d2] [d2 d2 d2 d2 d2 d2 d2 d2]>`)
+$: note(`<
+[b1 b1 b1 b1 b1 b1 b1 b1] [g1 g1 g1 g1 g1 g1 g1 g1] [d#1 d#1 d#1 d#1 d#1 d#1 d#1 d#1] [d1 d1 d1 d1 d1 d1 d1 d1]
+[b1 b1 b1 b1 b1 b1 b1 b1] [g1 g1 g1 g1 g1 g1 g1 g1] [d#1 d#1 d#1 d#1 d#1 d#1 d#1 d#1] [d1 d1 d1 d1 d1 d1 d1 d1]>`)
+$: note(`<
+[[c2,c#3] - a#2 c2 [c2,d2,a#2] - a#2 -] [a#2 [c2,d2] a#2 - [c2,d2,a#2] - [c2,a#2] c2] [[c2,c#3] - a#2 c2 [c2,d2,a#2] - a#2 -] [[c2,a#2] d2 a#2 c2 [c2,d2,a#2] d2 [d2,a#2] d2]
+[[c2,c#3] - a#2 c2 [c2,d2,a#2] - a#2 -] [a#2 [c2,d2] a#2 - [c2,d2,a#2] - [c2,a#2] c2] [[c2,c#3] - a#2 c2 [c2,d2,a#2] - a#2 -] [[c2,a#2] d2 a#2 c2 [c2,d2,a#2] - [d2,a#2] -]>`)
+$: note(`<
+f#4 g4 d#4 d4
+f#4 g4 d#4 d4>`)
+$: note(`<
+[- - f#4 g4] [- d4 d#4 d4] [- - - d4] [f#4 f#4 f#4 e4]
+[d#4 - f#4 g4] [- d4 d#4 d4] [- - - d4] [f#4 f#4 f#4 e4]>`)

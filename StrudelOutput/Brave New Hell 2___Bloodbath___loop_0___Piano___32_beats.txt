@@ -1,0 +1,7 @@
+setcpm(120/4)
+$: note(`<
+[g#2 g#2 g#2 g#2 g#2 g#2 g#2 g#2 g2 g2 g2 g2 e2 e2 f2 f2] [b2 b2 c3 c3 b2 b2 b2 b2 b2 b2 b2 b2 b2 b2 b2 b2] [g#2 g#2 g#2 g#2 g#2 g#2 g#2 g#2 g2 g2 g2 g2 e2 e2 f2 f2] [[e2,b2] [f2,c3] [e2,b2] - [e2,b2] [f2,c3] [e2,b2] -]
+[g#2 g#2 g#2 g#2 g#2 g#2 g#2 g#2 g2 g2 g2 g2 e2 e2 f2 f2] [b2 b2 c3 c3 b2 b2 b2 b2 b2 b2 b2 b2 b2 b2 b2 b2] [g#2 g#2 g#2 g#2 g#2 g#2 g#2 g#2 g2 g2 g2 g2 e2 e2 f2 f2] [[e2,b2] [f2,c3] [e2,b2] - [e2,b2] [f2,c3] [e2,b2] -]>`)
+$: note(`<
+[g#2 g#2 g#2 g#2 g#2 g#2 g#2 g#2 g2 g2 g2 g2 e2 e2 f2 f2] [b2 b2 c3 c3 b2 b2 b2 b2 b2 b2 b2 b2 b2 b2 b2 b2] [g#2 g#2 g#2 g#2 g#2 g#2 g#2 g#2 g2 g2 g2 g2 e2 e2 f2 f2] [[e2,b2] [f2,c3] [e2,b2] - [e2,b2] [f2,c3] [e2,b2] -]
+[g#2 g#2 g#2 g#2 g#2 g#2 g#2 g#2 g2 g2 g2 g2 e2 e2 f2 f2] [b2 b2 c3 c3 b2 b2 b2 b2 b2 b2 b2 b2 b2 b2 b2 b2] [g#2 g#2 g#2 g#2 g#2 g#2 g#2 g#2 g2 g2 g2 g2 e2 e2 f2 f2] [[e2,b2] [f2,c3] [e2,b2] - [e2,b2] [f2,c3] [e2,b2] -]>`)

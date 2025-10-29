@@ -1,0 +1,16 @@
+setcpm(166/4)
+$: note(`<
+[d4 a4 d4 a4 d4 a4 d4 a4] [d4 a4 d4 a4 d4 a4 d4 a4] [d4 a4 d4 a4 d4 a4 d4 a4] [d4 a4 d4 a4 d4 a4 d4 a4]
+[d4 a4 d4 a4 d4 a4 d4 a4] [d4 a4 d4 a4 d4 a4 d4 a4] [d4 a4 d4 a4 d4 a4 d4 a4] [d4 a4 d4 a4 d4 a4 d4 a4]>`)
+$: note(`<
+[[g2,b2] [g2,b2] [g2,b2] [g2,b2] [g2,b2] [g2,b2] [g2,b2] [g2,b2]] [[g2,b2] [g2,b2] [g2,b2] [g2,b2] [g2,b2] [g2,b2] [g2,b2] [g2,b2]] [[d3,a3] [d3,a3] [d3,a3] [d3,a3] [d3,a3] [d3,a3] [d3,a3] [d3,a3]] [[d3,a3] [d3,a3] [d3,a3] [d3,a3] [d3,a3] [d3,a3] [d3,a3] [d3,a3]]
+[[g2,b2] [g2,b2] [g2,b2] [g2,b2] [g2,b2] [g2,b2] [g2,b2] [g2,b2]] [[g2,b2] [g2,b2] [g2,b2] [g2,b2] [g2,b2] [g2,b2] [g2,b2] [g2,b2]] [[d3,a3] [d3,a3] [d3,a3] [d3,a3] [d3,a3] [d3,a3] [d3,a3] [d3,a3]] [[d3,a3] [d3,a3] [d3,a3] [d3,a3] [d3,a3] [d3,a3] [d3,a3] [d3,a3]]>`)
+$: note(`<
+[[g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4]] [[g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4]] [[d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4]] [[d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4]]
+[[g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4]] [[g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4] [g2,b2,d3,g3,b3,g4]] [[d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4]] [[d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4] [d3,a3,d4,f#4]]>`)
+$: note(`<
+[g1 g1 - g1 g1 g1 - g1] [g1 g1 g1 g1 g1 g1 g1 g1] [d2 d2 d2 d2 d2 d2 d2 d2] [d2 d2 d2 d2 d2 d2 d2 d2]
+[b1 b1 b1 b1 b1 b1 b1 b1] [b1 b1 b1 b1 b1 b1 b1 b1] [d2 d2 - d2 d2 d2 - d2] [d2 d2 - d2 d2 d2 - d2]>`)
+$: note(`<
+- - e6 -
+d6 - e6>`)

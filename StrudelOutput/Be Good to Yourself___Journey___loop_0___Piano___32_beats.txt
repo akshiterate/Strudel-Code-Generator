@@ -1,0 +1,21 @@
+setcpm(120/4)
+$: note(`<
+[- [f#4,a4,d5] - [f#4,a4,d5] [d4,f#4,b4] - - -] [- - [d4,g4,b4] - [d4,g4,a4] - - [d4,g4,c5]] [- [d4,g4,c5] - [d4,g4,c5] [d4,g4,b4] - [d4,g4,a4] -] [- - [d4,g4,b4] - [d4,g4,a4] - - [d4,g4,c5]]
+[- [d4,g4,c5] - [d4,g4,c5] [d4,g4,b4] - [d4,g4,a4] -] [- - [d4,g4,b4] - [d4,g4,a4] - - [d4,g4,c5]] [- [d4,g4,c5] - [d4,g4,c5] [d4,g4,b4] - [d4,g4,a4] -] [- [d4,g4,b4] [d4,g4,a4] -]>`)
+$: note(`<
+[- d2 d2 d2 d2 d2 d2 d2] [g1 g1 g1 g1 g1 g1 g1 g1] [g1 g1 g1 g1 g1 g1 b1 b1] [c2 c2 c2 c2 c2 c2 c2 c2]
+[c2 c2 c2 c2 c2 c2 g1 e1] [- e1 e1 e1 e1 e1 e1 e1] [e1 e1 e1 e1 e1 e1 e1 e1] [c2 c2 c2 c2 c2 c2 c2 -]>`)
+$: note(`<
+- c#3 - c#3
+[- - - - - - - c#3] - - [c#3 - - - - - - c#3]>`)
+$: note(`<
+- [c2 - - - c2 c2 - -] [c2 - - - c2 c2 - -] [c2 - - - c2 c2 - -]
+[c2 - - - c2 c2 - c2] [- - - - c2 c2 - -] [c2 - - - c2 c2 - -] [c2 - - - c2 c2 - c2]>`)
+$: note(`<
+[- e2 e2 e2 e2 e2 e2 e2] [- e2 - e2] [- e2 - e2] [- e2 - e2]
+[- e2 - e2] [- e2 - e2] [- e2 - e2] [- e2 - e2]>`)
+$: note(`<
+[- f2 f2 f2 f2 f2 f2 f2]>`)
+$: note(`<
+- [- f3 f3 f3 f3 f3 f3 f3] [f3 f3 f3 f3 f3 f3 f3 f3] [- f3 f3 f3 f3 f3 f3 f3]
+[f3 f3 f3 f3 f3 f3 f3 -] [- f3 f3 f3 f3 f3 f3 f3] [f3 f3 f3 f3 f3 f3 f3 f3] [- f3 f3 f3 f3 f3 f3 -]>`)

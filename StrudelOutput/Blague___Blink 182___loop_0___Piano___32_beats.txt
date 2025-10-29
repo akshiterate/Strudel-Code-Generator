@@ -1,0 +1,9 @@
+setcpm(120/4)
+$: note(`<
+[d3 - b3 g3 d3 - g3 -] [c3 - g3 c3 d3 - a3 -] [d3 - b3 g3 d3 - g3 -] [c3 - g3 c3 d3 - a3 -]
+[d3 - b3 g3 d3 - g3 -] [c3 - g3 c3 d3 - a3 -] [d3 - b3 g3 d3 - g3 -] [c3 - g3 c3 d3 - a3 -]>`)
+$: note(`<
+g3>`)
+$: note(`<
+- [f#3 g3 a3 f#3 g3 - - -] - -
+g3 [f#3 g3 a3 f#3 g3 - d3 d3] d3 [g3 a3 a3 a3 b3 - g3 g3]>`)

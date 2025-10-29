@@ -1,0 +1,13 @@
+setcpm(228/4)
+$: note(`<
+g3>`)
+$: note(`<
+[g2,d3,g3]>`)
+$: note(`<
+[g2,d3,g3]>`)
+$: note(`<
+g1 [g2 - g2 g2 g2 g2 g2 g2] [g2 - g2 g2 g2 g2 g2 g2] [a2 - a2 a2 a2 a2 a2 a2]
+[g2 - g2 g2 g2 g2 g2 g2] [a1 - a1 a1 a1 a1 a1 a1] [a1 - a1 a1 a1 a1 a1 a1] [c2 - c2 c2 c2 c2 c2 c2]>`)
+$: note(`<
+[[b2,c#3,a3] f2 a2 f2 g2 f2 d2 b2] [b2 f2 a2 f2 g2 f2 d2 b2] [b2 f2 a2 f2 g2 f2 d2 b2] [b2 f2 a2 f2 g2 f2 d2 b2]
+[b2 f2 a2 f2 g2 f2 d2 b2] [b2 f2 a2 f2 g2 f2 d2 b2] [b2 f2 a2 f2 g2 f2 d2 b2] [b2 f2 a2 f2 g2 f2 d2 b2]>`)

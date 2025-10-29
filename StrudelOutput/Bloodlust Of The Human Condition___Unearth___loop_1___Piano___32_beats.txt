@@ -1,0 +1,7 @@
+setcpm(120/4)
+$: note(`<
+[g2 - b1 a2 - b1 a2 - c3 - b1 a2 - b1 b2 -] [b1 - b1 b1 b1 b1 b1 b1 b2 - b1 a2 - b1 b2 -] [b1 - b1 b1 b1 b1 b1 b1 a2 - b1 d3 - b1 c#3 -] [b2 - b1 b1 b1 b1 b1 b1 b2 - b1 a2 - b1 b2 -]
+[g2 - b1 a2 - b1 a2 - c3 - b1 a2 - b1 b2 -] [b1 - b1 b1 b1 b1 b1 b1 b2 - b1 a2 - b1 b2 -] [b1 - b1 b1 b1 b1 b1 b1 a2 - b1 d3 - b1 c#3 -] [b2 - b1 b1 b1 b1 b1 b1 b2 - b1 a2 - b1 b2 -]>`)
+$: note(`<
+[g2 - b1 a2 - b1 a2 - c3 - b1 a2 - b1 b2 -] [b1 - b1 b1 b1 b1 b1 b1 b2 - b1 a2 - b1 b2 -] [b1 - b1 b1 b1 b1 b1 b1 a2 - b1 d3 - b1 c#3 -] [b2 - b1 b1 b1 b1 b1 b1 b2 - b1 a2 - b1 b2 -]
+[g2 - b1 a2 - b1 a2 - c3 - b1 a2 - b1 b2 -] [b1 - b1 b1 b1 b1 b1 b1 b2 - b1 a2 - b1 b2 -] [b1 - b1 b1 b1 b1 b1 b1 a2 - b1 d3 - b1 c#3 -] [b2 - b1 b1 b1 b1 b1 b1 b2 - b1 a2 - b1 b2 -]>`)

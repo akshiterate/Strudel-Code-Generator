@@ -1,0 +1,13 @@
+setcpm(120/4)
+$: note(`<
+[f1 f2 f1 f2 f1 f2 f1 f2] [f1 f2 f1 f2 f1 f2 f1 f2] [f1 f2 f1 f2 f1 f2 f1 f2] [f1 f2 f1 f2 f1 f2 f1 f2]
+[f1 f2 f1 f2 f1 f2 f1 f2] [f1 f2 f1 f2 f1 f2 f1 f2] [f1 f2 f1 f2 f1 f2 f1 f2] [f1 f2 f1 f2 f1 f2 f1 -]>`)
+$: note(`<
+[- c2 c2 c2] [c2 c2 c2 c2] [c2 c2 c2 c2] [c2 c2 c2 c2]
+[c2 c2 c2 c2] [c2 c2 c2 c2] [c2 c2 c2 c2] [c2 c2 c2 c2]>`)
+$: note(`<
+- - - -
+[f5 d#5 c#5 c5 f5 d#5 c#5 c5 f5 d#5 c#5 c5 f5 d#5 c#5 c5] [f5 d#5 c#5 c5 f5 d#5 c#5 c5 f5 d#5 c#5 c5 f5 d#5 c#5 c5] [f5 d#5 c#5 c5 f5 d#5 c#5 c5 f5 d#5 c#5 c5 f5 d#5 c#5 c5] [f5 d#5 c#5 c5 f5 d#5 c#5 c5 f5 d#5 c#5 c5 f5 d#5 c#5 c5]>`)
+$: note(`<
+- - - -
+[f4 f4 f4 f4 f4 f4 f4 f4 f4 g#4 - - - - g#4 g#4] [f4 f4 f4 f4 f4 f4 f4 f4 f4 g#4 - - - - g#4 g#4] [f4 f4 f4 f4 f4 f4 f4 f4 f4 g#4 - - - - g#4 g#4] [f4 f4 f4 f4 f4 f4 f4 f4 f4 g#4 - - - - g#4 g#4]>`)

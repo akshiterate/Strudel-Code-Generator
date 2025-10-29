@@ -1,0 +1,28 @@
+setcpm(120/4)
+$: note(`<
+[c2 c2 c2 c2] [c2 c2 c2 c2] [c2 c2 c2 c2] [c2 c2 c2 c2]
+[c2 c2 c2 c2] [c2 c2 c2 c2] [c2 c2 c2 c2] [c2 c2 c2 c2]>`)
+$: note(`<
+e2 e2 e2 e2
+e2 e2 e2 e2>`)
+$: note(`<
+[g#2 g#2 g#2 g#2 a#2 g#2 g#2 g#2 g#2 g#2 g#2 g#2 a#2 g#2 g#2 g#2] [g#2 g#2 g#2 g#2 a#2 g#2 g#2 g#2 g#2 g#2 g#2 g#2 a#2 g#2 g#2 g#2] [g#2 g#2 g#2 g#2 a#2 g#2 g#2 g#2 g#2 g#2 g#2 g#2 a#2 g#2 g#2 g#2] [g#2 g#2 g#2 g#2 a#2 g#2 g#2 g#2 g#2 g#2 g#2 g#2 a#2 g#2 g#2 g#2]
+[g#2 g#2 g#2 g#2 a#2 g#2 g#2 g#2 g#2 g#2 g#2 g#2 a#2 g#2 g#2 g#2] [g#2 g#2 g#2 g#2 a#2 g#2 g#2 g#2 g#2 g#2 g#2 g#2 a#2 g#2 g#2 g#2] [g#2 g#2 g#2 g#2 a#2 g#2 g#2 g#2 g#2 g#2 g#2 g#2 a#2 g#2 g#2 g#2] [a#2 g#2 g#2 g#2 a#2 g#2 g#2 g#2 g#2 g#2 g#2 g#2 a#2 g#2 g#2 g#2]>`)
+$: note(`<
+- [- - - - - - - - - - - - - - - f4] - -
+- [- - - - - - - - - - - - - - - f4]>`)
+$: note(`<
+[d1 - d1 - d2 - - - d2 c2 b1 d2 - c2 - -] [d1 - d1 - d2 - - - g1 - - c2 - c2 - d2] [d1 - d1 - d2 - - - d2 c2 b1 d2 - c2 - -] [d1 - d1 - d2 - - - g1 - - c2 - c2 - d2]
+[d1 - d1 - d2 - - - d2 c2 b1 d2 - c2 - -] [d1 - d1 - d2 - - - g1 - - c2 - c2 - d2] [d1 - d1 - d2 - - - d2 c2 b1 d2 - c2 - -] [d1 - d1 - d2 - - - g1 - - c2 - c2 - d2]>`)
+$: note(`<
+[c5 - a4 - d5 - a4 c5 - c5 - a4 d5 - a4 a4] [c5 - g4 - e5 - g4 c5 - c5 - g4 e5 - g4 g4] [c5 - g4 - e5 - g4 c5 - c5 - g4 e5 - g4 g4] [c5 - a4 - d5 - a4 c5 - c5 - a4 d5 - a4 a4]
+[c5 - a4 - d5 - a4 c5 - c5 - a4 d5 - a4 a4] [c5 - g4 - e5 - g4 c5 - c5 - g4 e5 - g4 g4] [c5 - g4 - e5 - g4 c5 - c5 - g4 e5 - g4 g4] [c5 - a4 - d5 - a4 c5 - c5 - a4 d5 - a4 a4]>`)
+$: note(`<
+[f6 - f6 - f6 f6 - - f6 f6 f6 f6 - f6 f6 f6] [e6 - e6 - e6 e6 - - e6 e6 e6 e6 - e6 e6 e6] [e6 - e6 - e6 - - - e6 e6 e6 e6 - e6 e6 e6] [f6 - f6 - f6 f6 - - f6 f6 f6 f6 - f6 f6 f6]
+[f6 - f6 - f6 f6 - - f6 f6 f6 f6 - f6 f6 f6] [e6 - e6 - e6 - - - e6 e6 e6 e6 - e6 e6 e6] [e6 - e6 - e6 e6 - - e6 e6 e6 e6 - e6 e6 e6] [f6 - f6 - f6 f6 - - f6 f6 f6 f6 - f6 f6 f6]>`)
+$: note(`<
+[- f6 f6 f6 f6 - f6 - f6 f6 - - f6 f6 f6 f6] [- f6 f6 f6 e6 - e6 - e6 e6 - - e6 e6 e6 e6] [- e6 e6 e6 e6 - e6 - e6 - - - e6 e6 e6 e6] [- e6 e6 e6 f6 - f6 - f6 f6 - - f6 f6 f6 f6]
+[- f6 f6 f6 f6 - f6 - f6 f6 - - f6 f6 f6 f6] [- f6 f6 f6 e6 - e6 - e6 - - - e6 e6 e6 e6] [- e6 e6 e6 e6 - e6 - e6 e6 - - e6 e6 e6 e6] [- e6 e6 e6 f6 - f6 - f6 f6 - - f6 f6 f6 f6]>`)
+$: note(`<
+[f6 f6 - f6 f6 f6 f6 - f6 - f6 f6 - - f6 f6] [f6 f6 - f6 f6 f6 e6 - e6 - e6 e6 - - e6 e6] [e6 e6 - e6 e6 e6 e6 - e6 - e6 - - - e6 e6] [e6 e6 - e6 e6 e6 f6 - f6 - f6 f6 - - f6 f6]
+[f6 f6 - f6 f6 f6 f6 - f6 - f6 f6 - - f6 f6] [f6 f6 - f6 f6 f6 e6 - e6 - e6 - - - e6 e6] [e6 e6 - e6 e6 e6 e6 - e6 - e6 e6 - - e6 e6] [e6 e6 - e6 e6 e6 f6 - f6 - f6 f6 - - f6 f6]>`)

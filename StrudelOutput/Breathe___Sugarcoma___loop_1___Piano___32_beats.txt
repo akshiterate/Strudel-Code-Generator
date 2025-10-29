@@ -1,0 +1,7 @@
+setcpm(90/4)
+$: note(`<
+[g1 - d2 - - g1 g1 -] [g1 f1 - d1 - - - d1] [g1 - d2 - - g1 g1 -] [g1 f1 - d1 - - - d1]
+[g1 - d2 - - g1 g1 -] [g1 f1 - d1 - - - d1] [g1 - d2 - - g1 g1 -] [g1 f1 - d1 - - - d1]>`)
+$: note(`<
+[c2 - d2 c2 c2 - d2 c2] [c2 - d2 c2 c2 - d2 c2] [c2 - d2 c2 c2 - d2 c2] [c2 - d2 c2 c2 - d2 c2]
+[c2 - d2 c2 c2 - d2 c2] [c2 - d2 c2 c2 - d2 c2] [c2 - d2 c2 c2 - d2 c2] [c2 - d2 c2 c2 - d2 c2]>`)

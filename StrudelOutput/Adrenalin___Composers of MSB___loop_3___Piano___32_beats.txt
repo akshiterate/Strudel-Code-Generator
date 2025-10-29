@@ -1,0 +1,13 @@
+setcpm(160/4)
+$: note(`<
+[[c2,g2,c3] - c2 - c2 - [c2,g2,c3] - c2 - [c2,g2,c3] - c2 c2 c2 -] [[c2,g2,c3] - c2 - c2 - [c2,g2,c3] - c2 - [c2,g2,c3] - c2 c2 c2 -] [[c2,g2,c3] - c2 - c2 - [c2,g2,c3] - c2 - [c2,g2,c3] - c2 c2 c2 -] [[c2,g2,c3] - c2 - c2 - [c2,g2,c3] - c2 - [c2,g2,c3] - c2 c2 c2 -]
+[[c2,g2,c3] - c2 - c2 - [c2,g2,c3] - c2 - [c2,g2,c3] - c2 c2 c2 -] [[c2,g2,c3] - c2 - c2 - [c2,g2,c3] - c2 - [c2,g2,c3] - c2 c2 c2 -] [[c2,g2,c3] - c2 - c2 - [c2,g2,c3] - c2 - [c2,g2,c3] - c2 c2 c2 -] [[c2,g2,c3] - c2 - c2 - [c2,g2,c3] - c2 - [c2,g2,c3] - c2 c2 c2 -]>`)
+$: note(`<
+[[c2,g2,c3] - c2 - c2 - [c2,g2,c3] - c2 - [c2,g2,c3] - c2 c2 c2 -] [[c2,g2,c3] - c2 - c2 - [c2,g2,c3] - c2 - [c2,g2,c3] - c2 c2 c2 -] [[c2,g2,c3] - c2 - c2 - [c2,g2,c3] - c2 - [c2,g2,c3] - c2 c2 c2 -] [[c2,g2,c3] - c2 - c2 - [c2,g2,c3] - c2 - [c2,g2,c3] - c2 c2 c2 -]
+[[c2,g2,c3] - c2 - c2 - [c2,g2,c3] - c2 - [c2,g2,c3] - c2 c2 c2 -] [[c2,g2,c3] - c2 - c2 - [c2,g2,c3] - c2 - [c2,g2,c3] - c2 c2 c2 -] [c3 - c2 - c2 - c3 - c2 - c3 - c3 c3 c3 -] [c3 - c2 - c2 - c3 - c2 - c3 - c3 c3 c3 -]>`)
+$: note(`<
+[c1 c1 c1 c1 c1 c1 c1 c1] [c1 c1 c1 c1 c1 c1 c1 c1] [c1 c1 c1 c1 c1 c1 c1 c1] [c1 c1 c1 c1 c1 c1 c1 c1]
+[c1 c1 c1 c1 c1 c1 c1 c1] [c1 c1 c1 c1 c1 c1 c1 c1] [c2 c2 c2 c2 c2 c2 c2 c2] [c2 c2 c2 c2 c2 c2 c2 c2]>`)
+$: note(`<
+[[e2,e3] [c2,c2] [e2,e3] [c2,c2] [e2,e3] [c2,c2] [e2,e3] [c2,c2]] [[e2,e3] [c2,c2] [e2,e3] [c2,c2] [e2,e3] [c2,c2] [e2,e3] [c2,c2]] [[e2,e3] [c2,c2] [e2,e3] [c2,c2] [e2,e3] [c2,c2] [e2,e3] [c2,c2]] [[e2,e3] [c2,c2] [e2,e3] [c2,c2] [e2,e3] [c2,c2] [e2,e3] [c2,c2]]
+[[e2,e3] [c2,c2] [e2,e3] [c2,c2] [e2,e3] [c2,c2] [e2,e3] [c2,c2]] [[e2,e3] - [c2,c2] - [e2,e3] - [c2,c2] - e2 e2 e2 e2 e2 e2 e2 e2] [[e2,e3] - [c2,c2] [c2,c2] [e2,e3] - [c2,c2] [c2,c2] [e2,e3] - [c2,c2] [c2,c2] [e2,e3] - [c2,c2] [c2,c2]] [[e2,e3] - [c2,c2] [c2,c2] [e2,e3] - [c2,c2] [c2,c2] [e2,e3] - [c2,c2] [c2,c2] [e2,e3] - [c2,c2] [c2,c2]]>`)

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transformer Strudel Code Player</title>
+    <script src="https://unpkg.com/@strudel/embed@latest"></script>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        button { margin: 10px; padding: 10px 20px; }
+        #player { margin: 20px 0; border: 1px solid #ccc; padding: 10px; }
+        #codeDisplay pre { background: #f4f4f4; padding: 10px; overflow: auto; }
+        #status { color: #555; }
+        nav { margin-bottom: 20px; }
+        nav a { margin-right: 10px; }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="/static/index.html">LSTM</a>
+        <a href="/static/transformer.html">Transformer</a>
+        <a href="/static/bilstm.html">BiLSTM</a>
+    </nav>
+    <h1>Transformer Strudel Code Player</h1>
+    <p>Click a button to generate and play new Strudel code using the Transformer model. Use the play button in the player to start/stop the music.</p>
+    <div id="status">Ready</div>
+    <button onclick="generateAndPlay(1.5)">Generate (Temp 1.5)</button>
+    <button onclick="generateAndPlay(1.7)">Generate (Temp 1.7)</button>
+    <button onclick="generateAndPlay(1.9)">Generate (Temp 1.9)</button>
+    <div id="player"></div>
+    <div id="codeDisplay"></div>
+
+    <script>
+        async function generateAndPlay(temperature) {
+            const status = document.getElementById('status');
+            status.textContent = 'Generating...';
+            const url = '/generate/transformer';
+            console.log(`Sending POST request to: ${url}`);
+            try {
+                const response = await fetch(url, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        temperature: temperature,
+                        max_tokens: 150,
+                        num_lines: 3,
+                        seed_text: null
+                    })
+                });
+                if (!response.ok) {
+                    const text = await response.text();
+                    console.error(`HTTP error! Status: ${response.status}, URL: ${url}, Response: ${text}`);
+                    throw new Error(`HTTP error! Status: ${response.status}, Response: ${text}`);
+                }
+                const data = await response.json();
+                console.log('API response:', data);
+                if (data.error) {
+                    throw new Error(data.error);
+                }
+                if (!data.code) {
+                    throw new Error('No code returned in response');
+                }
+                const code = data.code;
+                const player = document.getElementById('player');
+                player.innerHTML = '';
+                const editor = document.createElement('strudel-repl');
+                editor.setAttribute('code', code);
+                player.appendChild(editor);
+                const codeDisp = document.getElementById('codeDisplay');
+                codeDisp.innerHTML = `<h3>Generated Code (Temperature ${temperature}):</h3><pre>${code.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')}</pre>`;
+                status.textContent = 'Ready';
+            } catch (error) {
+                status.textContent = `Error: ${error.message}`;
+                console.error('Error details:', error);
+            }
+        }
+    </script>
+</body>
+</html>

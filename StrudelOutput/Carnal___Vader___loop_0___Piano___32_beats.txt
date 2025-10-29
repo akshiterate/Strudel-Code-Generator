@@ -1,0 +1,19 @@
+setcpm(120/4)
+$: note(`<
+[e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 - - - -] [e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 - - - -] [e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 - - - -] [e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 - - - -]
+[e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 - - - -] [e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 - - - -] [e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 - - - -] [e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 c3 c3 c3 [d#2,a#2]]>`)
+$: note(`<
+[- - - f2] [- - - f2] [- - - f2] [- - - f2]
+[- - - f2] [- - - f2] [- - - f2] [- - - - - - - - - - - - f2 f2 f2 -]>`)
+$: note(`<
+- - - -
+[e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 - - - -] [e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 - - - -] [e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 - - - -] [e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 e2 c3 c3 c3 [d#2,a#2]]>`)
+$: note(`<
+- - - [- - - c3]
+[- - - f2] [- - - f2] [- - - f2] [- - - - - - - - - - - - f2 f2 f2 -]>`)
+$: note(`<
+- - - -
+[e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 f1 - - -] [e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 f1 - - -] [e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 f1 - - -] [e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 f1 - - -]>`)
+$: note(`<
+- - - -
+[c2 c2 c2 c2 c2 c2 c2 c2 c2 c2 c2 c2 [c2,a#4] [c2,a#4] [c2,a#4] [c2,a#4]] [c2 c2 c2 c2 c2 c2 c2 c2 c2 c2 c2 c2 [c2,a#4] [c2,a#4] [c2,a#4] [c2,a#4]] [c2 c2 c2 c2 c2 c2 c2 c2 c2 c2 c2 c2 [c2,a#4] [c2,a#4] [c2,a#4] [c2,a#4]] [c2 c2 c2 c2 c2 c2 c2 c2 c2 c2 c2 c2 c2 c2 c2 c2]>`)

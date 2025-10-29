@@ -1,0 +1,10 @@
+setcpm(120/4)
+$: note(`<
+[- - - - - - - - - - - - a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 -] [[a4,a4] a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 -] [[a4,a4] a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 -] [[g#4,f#4] f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 -]
+[[g#4,f4] f4 f4 f4 f4 f4 f4 f4 f4 f4 f4 f4 f4 f4 f4 f4 a4 - - - b4 - - - - - - - - - - -] [- b4 - a4 - f4 d4 -] [- - - - e4 - - - d4 - - - c#4 - - - c#4 c#4 c#4 c#4 c#4 c#4 c#4 c#4 c#4 c#4 c#4 c#4 - - - -] [- - - - e4 - - - d4 - - - c#4 - - - c#4 c#4 c#4 c#4 c#4 c#4 c#4 c#4 c#4 c#4 c#4 c#4 c#4 c#4 c#4 -]
+c#4>`)
+$: note(`<
+- - - -
+[- - - - - - - b4] - [e4 - - - - - - e4]>`)
+$: note(`<
+[a2,e3,a3,b3,e4]>`)

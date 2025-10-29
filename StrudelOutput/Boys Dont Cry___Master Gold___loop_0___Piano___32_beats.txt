@@ -1,0 +1,13 @@
+setcpm(120/4)
+$: note(`<
+[f#5 a#4 f#5 a#4 f#5 a#4 f#5 a#4] [f#5 g#4 f#5 g#4 f#5 g#4 f#5 g#4] [e5 e4 e5 e4 e5 e4 e5 e4] [e5 f#4 e5 f#4 e5 f#4 d5 e4]
+[f#5 a#4 f#5 a#4 f#5 a#4 f#5 a#4] [f#5 g#4 f#5 g#4 f#5 g#4 f#5 g#4] [e5 e4 e5 e4 e5 e4 e5 e4] [e5 f#4 e5 f#4 e5 f#4 d5 e4]>`)
+$: note(`<
+[d2 c#2 b1 b1 d2 c#2 b1 b1] [d2 - c#2 - b1 - b1 b1] [d2 c#2 b1 b1 d2 c#2 b1 b1] [d2 - c#2 - b1 - b1 b1]
+[d2 c#2 b1 b1 d2 c#2 b1 b1] [d2 - c#2 - b1 - b1 b1] [d2 c#2 b1 b1 d2 c#2 b1 b1] [d2 - c#2 - b1 - b1 b1]>`)
+$: note(`<
+[f#2 f#2 f#2 f#2 f#2 f#2 f#2 f#2 f#2 f#2 f#2 f#2 f#2 f#2 f#2 f#2] - [a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2] -
+[c#3 c#3 c#3 c#3 c#3 c#3 c#3 c#3 c#3 c#3 c#3 c#3 c#3 c#3 c#3 c#3] - [a3 a3 a3 a3 a3 a3 a3 a3 a3 a3 a3 a3 a3 a3 a3 a3]>`)
+$: note(`<
+[g4,g5] - [e4,e5] -
+[d4,d5] - [b3,b4]>`)

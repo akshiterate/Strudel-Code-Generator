@@ -1,0 +1,13 @@
+setcpm(120/4)
+$: note(`<
+[b2 b2 b2 b2 b2 b2 b2 b2 c3 c3 c3 c3 c3 c3 c3 c3] [b2 b2 b2 b2 b2 b2 b2 b2 c3 c3 c3 c3 c3 c3 c3 c3] [b2 b2 b2 b2 b2 b2 b2 b2 c3 c3 c3 c3 c3 c3 c3 c3] [d#3 d#3 d#3 d#3 d#3 d#3 d#3 d#3 d3 d3 d3 d3 d3 d3 d3 d3]
+[a2 a2 a2 a2 a#2 a#2 a#2 a#2 c#3 c#3 c#3 c#3 c3 c3 c3 c3] [a2 a2 a2 a2 a#2 a#2 a#2 a#2 c#3 c#3 c#3 c#3 c3 c3 c3 c3] [a2 a2 a2 a2 a#2 a#2 a#2 a#2 c#3 c#3 c#3 c#3 c3 c3 c3 c3] [a2 a2 a2 a2 a#2 a#2 a#2 a#2 c#3 c#3 c#3 c#3 c3 c3 c3 c3]>`)
+$: note(`<
+[b2 b2 b2 b2 b2 b2 b2 b2 c3 c3 c3 c3 c3 c3 c3 c3] [b2 b2 b2 b2 b2 b2 b2 b2 c3 c3 c3 c3 c3 c3 c3 c3] [b2 b2 b2 b2 b2 b2 b2 b2 c3 c3 c3 c3 c3 c3 c3 c3] [d#3 d#3 d#3 d#3 d#3 d#3 d#3 d#3 d3 d3 d3 d3 d3 d3 d3 d3]
+[a2 a2 a2 a2 a#2 a#2 a#2 a#2 c#3 c#3 c#3 c#3 c3 c3 c3 c3] [a2 a2 a2 a2 a#2 a#2 a#2 a#2 c#3 c#3 c#3 c#3 c3 c3 c3 c3] [a2 a2 a2 a2 a#2 a#2 a#2 a#2 c#3 c#3 c#3 c#3 c3 c3 c3 c3] [a2 a2 a2 a2 a#2 a#2 a#2 a#2 c#3 c#3 c#3 c#3 c3 c3 c3 c3]>`)
+$: note(`<
+[b1 b1 b1 b1 b1 b1 b1 b1 c2 c2 c2 c2 c2 c2 c2 c2] [b1 b1 b1 b1 b1 b1 b1 b1 c2 c2 c2 c2 c2 c2 c2 c2] [b1 b1 b1 b1 b1 b1 b1 b1 c2 c2 c2 c2 c2 c2 c2 c2] [d#2 d#2 d#2 d#2 d#2 d#2 d#2 d#2 d2 d2 d2 d2 d2 d2 d2 d2]
+[a1 a1 a1 a1 a#1 a#1 a#1 a#1 c#2 c#2 c#2 c#2 c2 c2 c2 c2] [a1 a1 a1 a1 a#1 a#1 a#1 a#1 c#2 c#2 c#2 c#2 c2 c2 c2 c2] [a1 a1 a1 a1 a#1 a#1 a#1 a#1 c#2 c#2 c#2 c#2 c2 c2 c2 c2] [a1 a1 a1 a1 a#1 a#1 a#1 a#1 c#2 c#2 c#2 c#2 c2 c2 c2 c2]>`)
+$: note(`<
+[[c2,d#3] d2 [c2,d#3] d2 [c2,d#3] d2 [c2,d#3] d2] [[c2,d#3] d2 [c2,d#3] d2 [c2,d#3] d2 [c2,d#3] d2] [[c2,d#3] d2 [c2,d#3] d2 [c2,d#3] d2 [c2,d#3] d2] [[c2,a3] - d2 d2 - d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2]
+[[c2,a#2] d2 [c2,a#2] d2 [c2,a#2] d2 [c2,a#2] d2] [[c2,a#2] d2 [c2,a#2] d2 [c2,a#2] d2 [c2,a#2] d2] [[c2,a#2] d2 [c2,a#2] d2 [c2,a#2] d2 [c2,a#2] d2] [[c2,a#2] - d2 - [c2,a#2] - d2 d2 d2 - d2 d2 d2 d2 d2 d2]>`)

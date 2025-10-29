@@ -1,0 +1,22 @@
+setcpm(120/4)
+$: note(`<
+[[c2,a3] c2 c2 c2 [c2,e2,c#3] c2 c2 c2 [c2,e3] c2 c2 c2 [c2,e2,e3] c2 c2 c2] [[c2,e3] c2 c2 c2 [c2,e2,e3] c2 c2 c2 [c2,e3] c2 c2 c2 [c2,e2,e3] c2 c2 c2] [[c2,e3] c2 c2 c2 [c2,e2,e3] c2 c2 c2 [c2,e3] c2 c2 c2 [c2,e2,e3] c2 c2 c2] [[c2,e3] c2 c2 c2 [c2,e2,e3] c2 c2 c2 [c2,e3] c2 c2 c2 [c2,e2,e3] c2 c2 c2]
+[[c2,c#3,e3] c2 c2 c2 [c2,e2,e3] c2 c2 c2 [c2,e3] c2 c2 c2 [c2,e2,e3] c2 c2 c2] [[c2,e3] c2 c2 c2 [c2,e2,e3] c2 c2 c2 [c2,e3] c2 c2 c2 [c2,e2,e3] c2 c2 c2] [[c2,e3] c2 c2 c2 [c2,e2,e3] c2 c2 c2 [c2,e3] c2 c2 c2 [c2,e2,e3] c2 c2 c2] [[c2,e3] c2 c2 c2 [c2,e2,e3] c2 c2 c2 [c2,e3] c2 c2 c2 [c2,e2] [c2,e2] [c2,e2] [c2,e2]]>`)
+$: note(`<
+[b1 b1 b1 b1 b1 b1 b1 b1 b1 b1 b1 b1 b1 b1 b1 b1] [b1 b1 b1 b1 b1 b1 b1 b1 d1 d1 d1 d1 d1 d1 d1 d1] [e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 e1 e1] [e1 e1 e1 e1 e1 e1 e1 e1 f#1 f#1 f#1 f#1 f#1 f#1 f#1 f#1]
+[g1 g1 g1 g1 g1 g1 g1 g1 g1 g1 g1 g1 g1 g1 g1 g1] [g1 g1 g1 g1 g1 g1 g1 g1 g1 g1 g1 g1 g1 g1 g1 g1] [f#1 f#1 f#1 f#1 f#1 f#1 f#1 f#1 f#1 f#1 f#1 f#1 f#1 f#1 f#1 f#1] [f1 f1 f1 f1 f1 f1 f1 f1 f1 f1 f1 f1 f1 f1 f1 f1]>`)
+$: note(`<
+[b1,f#2,b2,f#3] [- [d3,a3,d4]] [e2,b2,e3] [- [f#2,c#3,f#3]]
+[g2,d3,g3] - [f#2,c#3,f#3]>`)
+$: note(`<
+- - - -
+- - - a#2>`)
+$: note(`<
+[b1,f#2,b2,f#3] [- [d3,a3,d4]] [e2,b2,e3] [- [f#2,c#3,f#3]]
+[g2,d3,g3] - [f#2,c#3,f#3]>`)
+$: note(`<
+- - - -
+- - - a#2>`)
+$: note(`<
+[[b4,d5] f#4 [b4,c#5] [b4,d5] f#4 [b4,d5] f#4 [b4,c#5] [b4,d5] f#4 [c#5,e5] f#4 [b4,d5] f#4 [a#4,c#5] f#4] [f#4 [b4,d5] f#4 [b4,c#5] [b4,d5] f#4 [b4,c#5] [b4,d5] f#4 [c#5,e5] f#4 [a#4,c#5] f#4 [a#4,c#5] [a#4,c#5] [a#4,c#5]] [[b4,d5] f#4 [b4,c#5] [b4,d5] f#4 [b4,d5] f#4 [b4,c#5] [b4,d5] f#4 [c#5,e5] f#4 [b4,d5] f#4 [a#4,c#5] f#4] [f#4 [b4,d5] f#4 [b4,c#5] [b4,d5] f#4 [b4,c#5] [b4,d5] f#4 [c#5,e5] f#4 [a#4,c#5] f#4 [a#4,c#5] [a#4,c#5] [a#4,c#5]]
+[[b4,d5] f#4 [b4,c#5] [b4,d5] f#4 [b4,d5] f#4 [b4,c#5] [b4,d5] f#4 [c#5,e5] f#4 [b4,d5] f#4 [a#4,c#5] f#4] [f#4 [b4,d5] f#4 [b4,c#5] [b4,d5] f#4 [b4,c#5] [b4,d5] f#4 [c#5,e5] f#4 [a#4,c#5] f#4 [a#4,c#5] [a#4,c#5] [a#4,c#5]] [- [a#4,c#5] - [b4,d5] [c#5,e5] - - [c#5,e5] - [d5,f#5] [e5,g5] - - [e5,g5] - [d5,f#5]] [[c#5,e5] - - [c#5,e5] - [b4,d5] [a#4,c#5] - - - g4 f#4 e4 d4 c#4 b3]>`)

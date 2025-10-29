@@ -1,0 +1,10 @@
+setcpm(120/4)
+$: note(`<
+[[a3,f4,a4] - [a3,f4,a4] [a3,f4,a4] - [a3,f4,a#4] [a3,f4,a#4] - [a3,f4,c5] - [a3,f4,c5] [a3,f4,c5] - [a3,f4,a#4] [a3,f4,a#4] -] [[a3,f4,a4] - [a3,f4,a4] [a3,f4,a4] - [a3,f4,a#4] [a3,f4,a#4] - [a3,f4,c5] - [a3,f4,c5] [a3,f4,c5] - [a3,f4,a#4] [a3,f4,a#4] -] [[a3,f4,a4] - [a3,f4,a4] [a3,f4,a4] - [a3,f4,a#4] [a3,f4,a#4] - [a3,f4,c5] - [a3,f4,c5] [a3,f4,c5] - [a3,f4,a#4] [a3,f4,a#4] -] [[a3,f4,a4] - [a3,f4,a4] [a3,f4,a4] - [a3,f4,a#4] [a3,f4,a#4] - [a3,f4,a4] - [a3,f4,a4] [a3,f4,a4] - [a3,f4,a#4] [a3,f4,a#4] -]
+[[a3,f4,a4] - [a3,f4,a4] [a3,f4,a4] - [a3,f4,a#4] [a3,f4,a#4] - [a3,f4,c5] - [a3,f4,c5] [a3,f4,c5] - [a3,f4,a#4] [a3,f4,a#4] -] [[a3,f4,a4] - [a3,f4,a4] [a3,f4,a4] - [a3,f4,a#4] [a3,f4,a#4] - [a3,f4,c5] - [a3,f4,c5] [a3,f4,c5] - [a3,f4,a#4] [a3,f4,a#4] -] [[a3,f4,a4] - [a3,f4,a4] [a3,f4,a4] - [a3,f4,a#4] [a3,f4,a#4] - [a3,f4,c5] - [a3,f4,c5] [a3,f4,c5] - [a3,f4,a#4] [a3,f4,a#4] -] [[a3,f4,a4] - [a3,f4,a4] [a3,f4,a4] - [a3,f4,a#4] [a3,f4,a#4] - [a3,f4,a4] - [a3,f4,a4] [a3,f4,a4] - [a3,f4,a#4] [a3,f4,a#4] -]>`)
+$: note(`<
+[f#2 c2 f#2 c2 f#2 c2 f#2 c2] [f#2 c2 f#2 c2 f#2 c2 f#2 c2] [f#2 c2 f#2 c2 f#2 c2 f#2 c2] [f#2 c2 f#2 c2 f#2 c2 f#2 c2]
+[[f#2,f#2] c2 f#2 c2 f#2 c2 f#2 c2] [f#2 c2 f#2 c2 f#2 c2 f#2 c2] [f#2 c2 f#2 c2 f#2 c2 f#2 c2] [f#2 c2 f#2 c2 f#2 c2 f#2 c2]>`)
+$: note(`<
+[d2 f2 f2 d2 d2 f2 f2 - d2 f2 f2 d2 d2 f2 f2 -] [d2 f2 f2 d2 d2 f2 f2 - d2 f2 f2 d2 d2 f2 f2 -] [d2 f2 f2 d2 d2 f2 f2 - d2 f2 f2 d2 d2 f2 f2 -] [d2 f2 f2 d2 d2 f2 f2 - d2 f2 f2 d2 d2 f2 f2 -]
+[d2 f2 f2 d2 d2 f2 f2 - d2 f2 f2 d2 d2 f2 f2 -] [d2 f2 f2 d2 d2 f2 f2 - d2 f2 f2 d2 d2 f2 f2 -] [d2 f2 f2 d2 d2 f2 f2 - d2 f2 f2 d2 d2 f2 f2 -] [d2 f2 f2 d2 d2 f2 f2 - d2 f2 f2 d2 d2 f2 f2 -]>`)

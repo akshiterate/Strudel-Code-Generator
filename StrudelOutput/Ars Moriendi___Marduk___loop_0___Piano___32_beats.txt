@@ -1,0 +1,4 @@
+setcpm(120/4)
+$: note(`<
+[f4 e4 d4 c4 b3 a3 g#3 f3] [[e3,b3] - [e3,b3] - [d3,a3] [e3,b3] [f3,c4] -] [f4 e4 d4 c4 b3 a3 g#3 f3] [[e3,b3] - g4 a4 a#4 g4 b4 -]
+[f4 e4 d4 c4 b3 a3 g#3 f3] [[e3,b3] - [e3,b3] - [d3,a3] [e3,b3] [f3,c4] -] [f4 e4 d4 c4 b3 a3 g#3 f3] [[e3,b3] - g4 a4 a#4 g4 b4 -]>`)

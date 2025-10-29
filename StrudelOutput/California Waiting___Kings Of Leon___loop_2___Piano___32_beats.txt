@@ -1,0 +1,13 @@
+setcpm(120/4)
+$: note(`<
+[d4 - e4 d4 e4 d4 - e4] [- - e4 d4 e4 f#4 e4 d4] [- - e4 d4 e4 d4 - e4] [- - e4 d4 e4 f#4 e4 d4]
+[- - e4 d4 e4 d4 - e4] [- - e4 d4 e4 f#4 e4 d4] [- - e4 d4 e4 d4 - e4] [- - e4 d4 e4 f#4 e4 -]>`)
+$: note(`<
+[[g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4]] [[g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4]] [[d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5]] [[d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5]]
+[[g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4]] [[g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4] [g2,d3,g3,b3,d4,g4]] [[d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5]] [[d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5] [d3,a3,d4,f#4,a4,d5]]>`)
+$: note(`<
+[g2 g2 g2 g2 g2 g2 g2 g2] [g2 g2 g2 g2 g2 f#2 f#2 d2] [d2 d2 d2 d2 d2 d2 d2 d2] [d2 d2 d2 d2 d2 d2 d2 d2]
+[g2 g2 g2 g2 g2 g2 g2 g2] [g2 g2 g2 g2 g2 f#2 f#2 d2] [d2 d2 d2 d2 d2 d2 d2 d2] [d2 d2 d2 d2 d2 d2 d2 d2]>`)
+$: note(`<
+[[c2,e2,a#2] [c2,e2,a#2] [c2,e2,a#2] [c2,e2,a#2]] [[c2,e2,a#2] [c2,e2,a#2] [c2,e2,a#2] [c2,e2,a#2]] [[c2,e2,a#2] [c2,e2,a#2] [c2,e2,a#2] [c2,e2,a#2]] [[c2,e2,a#2] [c2,e2,a#2] [c2,e2,a#2] [c2,e2,a#2]]
+[[c2,e2,a#2] [c2,e2,a#2] [c2,e2,a#2] [c2,e2,a#2]] [[c2,e2,a#2] [c2,e2,a#2] [c2,e2,a#2] [c2,e2,a#2]] [[c2,e2,a#2] [c2,e2,a#2] [c2,e2,a#2] [c2,e2,a#2]] [[c2,e2,a#2] [c2,e2,a#2] [c2,e2,a#2] [c2,e2,a#2]]>`)

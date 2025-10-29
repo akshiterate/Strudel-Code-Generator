@@ -1,0 +1,4 @@
+setcpm(120/4)
+$: note(`<
+[d2 c2 d2 c2 g#2 c2 d2 c2 d2 c2 d2 c2 g#2 g2 f2 g2] [d2 c2 d2 c2 g#2 c2 d2 c2 d2 [f4,f5] [f4,f5] [c4,c5] [c4,c5] [f4,f5] [f4,f5] [c4,c5]] [f3 d#3 f3 d#3 b3 d#3 b3 d#3 f3 d#3 - - b3 a#3 g#3 a#3] [f3 d#3 f3 d#3 b3 d#3 b3 d#3 f3 d#3 - - b3 a#3 g#3 a#3]
+[f3 d#3 f3 d#3 b3 d#3 b3 d#3 f3 d#3 - - b3 a#3 g#3 a#3] [f3 d#3 f3 d#3 b3 d#3 b3 d#3 f3 d#3 f#3 f#3 f#3 f#3 f#3 f#3] [d2 c2 d2 c2 g#2 c2 d2 c2 d2 c2 d2 c2 g#2 g2 f2 g2] [d2 c2 d2 c2 g#2 c2 d2 c2 d2 c2 d2 c2 g#2 g2 f2 g2]>`)

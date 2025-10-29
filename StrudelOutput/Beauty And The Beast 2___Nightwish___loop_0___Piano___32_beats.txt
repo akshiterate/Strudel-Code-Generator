@@ -1,0 +1,16 @@
+setcpm(120/4)
+$: note(`<
+[[c3,g3] - [c3,g3] [c3,g3] - - [g2,d3] [g2,d3] [g2,d3] - [g2,d3] [g2,d3] - - - -] [[a2,e3] - a2 a2 [a2,e3] - a2 a2 [a2,e3] - a2 a2 d3 c3 b2 c3] [[f2,c3] - - - - - - - - - - - - - - - f2 - - - - - - - f2 - - - - - - - [f2,c3] - - - - - - - - - - - - - - - f2 - - - - - - - f2 - - - - - - - [f2,c3] - - - - - - - - - - - - - - - f2 - - - - - - - f2 - - - - - - - d3 - - - - - - - - - - c3 - - - - - - - - - b2 - - - - - - - - - -] [[g2,d3] - g2 g2 [g2,d3] - g2 g2 [g2,d3] - g2 g2 [g2,d3] - g2 g2]
+[[c3,g3] - - - - - - - d3 e3 e3 e3 d3 e3 e3 e3] [[a2,e3] - a2 a2 [a2,e3] - a2 a2 [a2,e3] - a2 a2 d3 c3 b2 c3] [[f2,c3] - - - - - - - - - - - - - - - f2 - - - - - - - f2 - - - - - - - [f2,c3] - - - - - - - - - - - - - - - f2 - - - - - - - f2 - - - - - - - [f2,c3] - - - - - - - - - - - - - - - f2 - - - - - - - f2 - - - - - - - d3 - - - - - - - - - - c3 - - - - - - - - - b2 - - - - - - - - - -] [[g2,d3] - g2 g2 [g2,d3] - g2 g2 [g2,d3] - g2 g2 [g2,d3] - g2 g2]>`)
+$: note(`<
+[c2 - c2 c2 - - g1 g1 g1 - g1 g1 - - - -] [a1 - a1 a1 a1 - a1 a1 a1 - a1 a1 a1 - a1 a1] [f1 - f1 f1 f1 - f1 f1 f1 - f1 f1 f1 - f1 f1] [g1 - g1 g1 g1 - g1 g1 g1 - g1 g1 g1 - g1 g1]
+[c2 - c2 c2 - - g1 g1 g1 - g1 g1 - - - -] [a1 - a1 a1 a1 - a1 a1 a1 - a1 a1 a1 - a1 a1] [f1 - f1 f1 f1 - f1 f1 f1 - f1 f1 f1 - f1 f1] [g1 - g1 g1 g1 - g1 g1 g1 - g1 g1 g1 - g1 g1]>`)
+$: note(`<
+[b4 a4 c5 a4 d5 a4 e5 a4 c5 a4 d5 a4 e5 d5 c5 b4] [b4 a4 c5 a4 d5 a4 b4 a4 c5 a4 d5 a4 e5 d5 c5 d5] [b4 f4 c5 f4 d5 f4 b4 f4 c5 f4 d5 f4 e5 d5 c5 d5] [b4 g4 c5 g4 d5 g4 b4 g4 c5 g4 d5 g4 d5 c5 b4 c5]
+[b4 a4 c5 a4 d5 a4 e5 a4 c5 a4 d5 a4 e5 d5 c5 b4] [b4 a4 c5 a4 d5 a4 b4 a4 c5 a4 d5 a4 e5 d5 c5 d5] [b4 f4 c5 f4 d5 f4 b4 f4 c5 f4 d5 f4 e5 d5 c5 d5] [b4 g4 c5 g4 d5 g4 b4 g4 c5 g4 d5 g4 d5 c5 b4 c5]>`)
+$: note(`<
+[b3 a3 c4 a3 d4 a3 e4 a3 c4 a3 d4 a3 e4 d4 c4 b3] [b3 a3 c4 a3 d4 a3 b3 a3 c4 a3 d4 a3 e4 d4 c4 d4] [b3 f3 c4 f3 d4 f3 b3 f3 c4 f3 d4 f3 e4 d4 c4 d4] [b3 g3 c4 g3 d4 g3 b3 g3 c4 g3 d4 g3 d4 c4 b3 c4]
+[b3 a3 c4 a3 d4 a3 e4 a3 c4 a3 d4 a3 e4 d4 c4 b3] [b3 a3 c4 a3 d4 a3 b3 a3 c4 a3 d4 a3 e4 d4 c4 d4] [b3 f3 c4 f3 d4 f3 b3 f3 c4 f3 d4 f3 e4 d4 c4 d4] [b3 g3 c4 g3 d4 g3 b3 g3 c4 g3 d4 g3 d4 c4 b3 c4]>`)
+$: note(`<
+[[c2,d2] - d2 [c2,d2] - - d2 d2 [c2,d2] - d2 d2 [c2,a2,b2] [a2,b2] [g2,a2] [g2,a2]] [[c2,a3] [d2,a#2] [c2,a#2] [d2,a#2]] [[c2,a#2] [d2,a#2] [c2,a#2] [d2,a#2]] [[c2,a#2] - - - [d2,a#2] - - - [c2,a#2] - - - c#3 - d2 d2]
+[[c2,d2,a3] - d2 [c2,d2] - - d2 d2 [c2,d2,c#3] - d2 d2 [c2,a2,b2] [a2,b2] [g2,a2] [g2,a2]] [[c2,a3] [d2,a#2] [c2,a#2] [d2,a#2]] [[c2,a#2] [d2,a#2] [c2,a#2] [d2,a#2]] [[c2,a#2] - - - [d2,a#2] - - - [c2,a#2] - - - c#3 - d2 d2]>`)

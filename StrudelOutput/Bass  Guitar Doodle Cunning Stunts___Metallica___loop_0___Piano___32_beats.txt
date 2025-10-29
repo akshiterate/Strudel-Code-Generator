@@ -1,0 +1,4 @@
+setcpm(120/4)
+$: note(`<
+[g#1 - e3 c#3 g#1 e3 c#3 g#1] [g#3 c#3 g#1 f#3 c#3 g#1 e3 g#1] [g#1 - d#3 b2 g#1 d#3 b2 g#1] [f#3 b2 g#1 e3 b2 g#1 d#3 g#1]
+[g#1 - e3 c#3 g#1 e3 c#3 g#1] [g#3 c#3 g#1 f#3 c#3 g#1 e3 g#1] [g#1 - d#3 b2 g#1 d#3 b2 g#1] [f#3 b2 g#1 e3 b2 g#1 d#3 g#1]>`)

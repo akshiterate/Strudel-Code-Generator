@@ -1,0 +1,19 @@
+setcpm(120/4)
+$: note(`<
+[a2 e3 f3 e3 a2 e3 g2 d3] [a2 e3 f3 e3 a2 e3 g2 d3] [a2 e3 f3 e3 a2 e3 g2 d3] [a2 e3 f3 e3 a2 e3 a3 g3]
+[[a2,e3] [a#2,f3] [a2,e3] [a2,e3] [a#2,f3] [a2,e3] [a#2,f3] [a#2,f3] - - [a#2,f3] [a2,e3] [a2,e3] [g#2,d#3] [g#2,d#3] [g2,d3]] [[a2,e3] [a#2,f3] [a2,e3] [a2,e3] [a#2,f3] [a2,e3] [a#2,f3] [a#2,f3] - - [a#2,f3] [a2,e3] [a2,e3] [a2,e3] [a3,c#4] [a2,e3]] [[a2,e3] [a#2,f3] [a2,e3] [a2,e3] [a#2,f3] [a2,e3] [a#2,f3] [a#2,f3] - - [a#2,f3] [a2,e3] [a2,e3] [g#2,d#3] [g#2,d#3] [g2,d3]] [[a2,e3] [a#2,f3] [a2,e3] [a2,e3] [a#2,f3] [a2,e3] [a#2,f3] [a#2,f3] - - [a#2,f3] [a2,e3] [a2,e3] [a2,e3] [a3,c#4] [a2,e3]]>`)
+$: note(`<
+[a4 - e5 - - - b4 c5] [d5 - c5 g4] [a4 - e5 - - - b4 c5] [d5 - c5 g5]
+[[a2,e3] [a#2,f3] [a2,e3] [a2,e3] [a#2,f3] [a2,e3] [a#2,f3] [a#2,f3] - - [a#2,f3] [a2,e3] [a2,e3] [g#2,d#3] [g#2,d#3] [g2,d3]] [[a2,e3] [a#2,f3] [a2,e3] [a2,e3] [a#2,f3] [a2,e3] [a#2,f3] [a#2,f3] - - [a#2,f3] [a2,e3] [a2,e3] [a2,e3] [a3,c#4] [a2,e3]] [[a2,e3] [a#2,f3] [a2,e3] [a2,e3] [a#2,f3] [a2,e3] [a#2,f3] [a#2,f3] - - [a#2,f3] [a2,e3] [a2,e3] [g#2,d#3] [g#2,d#3] [g2,d3]] [[a2,e3] [a#2,f3] [a2,e3] [a2,e3] [a#2,f3] [a2,e3] [a#2,f3] [a#2,f3] - - [a#2,f3] [a2,e3] [a2,e3] [a2,e3] [a3,c#4] [a2,e3]]>`)
+$: note(`<
+[a1 a#1 a1 a1 a#1 a1 a#1 a#1 - - a#1 a1 a1 g#1 g#1 g1] [a1 a#1 a1 a1 a#1 a1 a#1 a#1 - - a#1 a1 a1 g#1 e2 e1] [a1 a#1 a1 a1 a#1 a1 a#1 a#1 - - a#1 a1 a1 g#1 g#1 g1] [a1 a#1 a1 a1 a#1 a1 a#1 a#1 - - a#1 a1 a1 g#1 e2 e1]
+[a1 a#1 a1 a1 a#1 a1 a#1 a#1 - - a#1 a1 a1 g#1 g#1 g1] [a1 a#1 a1 a1 a#1 a1 a#1 a#1 - - a#1 a1 a1 g#1 e2 e1] [a1 a#1 a1 a1 a#1 a1 a#1 a#1 - - a#1 a1 a1 g#1 g#1 g1] [a1 a#1 a1 a1 a#1 a1 a#1 a#1 - - a#1 a1 a1 g#1 e2 e1]>`)
+$: note(`<
+[f#1,b1,e2,a2] - - -
+[a1 a#1 a1 a1 a#1 a1 a#1 a#1 - - a#1 a1 a1 g#1 g#1 g1] [a1 a#1 a1 a1 a#1 a1 a#1 a#1 - - a#1 a1 a1 g#1 e2 e1] [a1 a#1 a1 a1 a#1 a1 a#1 a#1 - - a#1 a1 a1 g#1 g#1 g1] [a1 a#1 a1 a1 a#1 a1 a#1 a#1 - - a#1 a1 a1 g#1 e2 e1]>`)
+$: note(`<
+[a1 a1 a1 a1 a1 a1 a1 a1 - - a1 a1 a1 a1 a1 a1] [a1 a1 a1 a1 a1 a1 a1 a1 - - a1 a1 a1 a1 e2 a1] [a1 a1 a1 a1 a1 a1 a1 a1 - - a1 a1 a1 a1 a1 a1] [a1 a1 a1 a1 a1 a1 a1 a1 - - a1 a1 a1 a1 e2 a1]
+[a1 a1 a1 a1 a1 a1 a1 a1 - - a1 a1 a1 a1 a1 a1] [a1 a1 a1 a1 a1 a1 a1 a1 - - a1 a1 a1 a1 e2 a1] [a1 a1 a1 a1 a1 a1 a1 a1 - - a1 a1 a1 a1 a1 a1] [a1 a1 a1 a1 a1 a1 a1 a1 - - a1 a1 a1 a1 e2 a1]>`)
+$: note(`<
+[[b1,f#3] c-1 f#2 c-1 [a#1,a5] c-1 [b1,f#3] c-1 [b1,f#3] c-1 f#2 c-1 [a#1,a5] c-1 f#2 c-1] [[b1,f#3] c-1 f#2 c-1 [a#1,a5] c-1 [b1,f#3] c-1 c6 - [b1,f#3] c-1 [a#1,a5] c-1 [b1,f#3] c-1] [[b1,f#3] c-1 f#2 c-1 [a#1,a5] c-1 [b1,f#3] c-1 [b1,f#3] c-1 f#2 [c-1,b1] a5 [c-1,b1] f#2 [c-1,b1]] [[b1,f#3] c-1 f#2 c-1 [a#1,a5] c-1 [b1,f#3] c-1 c6 - [b1,f#3] c-1 [a#1,a5] c-1 [a#1,a5] f#1]
+[[b1,a3] c-1 g3 c-1 [d2,g3] [c-1,b1] g3 [c-1,b1] [b1,g3] c-1 [b1,g3] c-1 [d2,g3] c-1 [a#2,a#2] g#2] [[b1,a3] c-1 [b1,g3] c-1 [d2,g3] c-1 g3 [c-1,b1] g3 c-1 [b1,g3] c-1 [d2,g3] c-1 [b1,g3] c-1] [[b1,a3] c-1 g3 c-1 [d2,g3] [c-1,b1] g3 [c-1,b1] [b1,g3] c-1 [b1,g3] c-1 [d2,g3] c-1 [a#2,a#2] g#2] [[b1,a3] c-1 [b1,g3] c-1 [d2,g3] c-1 g3 [c-1,b1] g3 c-1 [b1,g3] c-1 [d2,g3] c-1 [b1,g3] c-1]>`)

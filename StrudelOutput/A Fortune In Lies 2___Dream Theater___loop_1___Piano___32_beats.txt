@@ -1,0 +1,10 @@
+setcpm(175/4)
+$: note(`<
+[[f#2,c#3] - f#2 f#2 f#2 - f#2 - f#2 f#2 f#2 - f#2 - f#2 f#2] [f#2 f#2 f#2 - f#2 f#2 f#2 - f#2 - f#2 - f#2 f#2 f#2 -] [f#2 f#2 f#2 f#2 f#2 - f#2 - f#2 f#2 f#2 - f#2 - f#2 f#2] [f#2 f#2 f#2 - f#2 f#2 f#2 - f#2 - f#2 - f#2 f#2 f#2 -]
+[f#2 - f#2 f#2 f#2 - f#2 - f#2 f#2 f#2 - f#2 - f#2 f#2] [f#2 f#2 f#2 - f#2 f#2 f#2 - f#2 - f#2 - f#2 f#2 f#2 -] [f#2 f#2 f#2 f#2 f#2 - f#2 - f#2 f#2 f#2 - f#2 - f#2 f#2] [f#2 f#2 f#2 - f#2 f#2 f#2 - f#2 - f#2 - f#2 f#2 f#2 -]>`)
+$: note(`<
+[f#1 - f#1 f#1 f#1 - f#1 - f#1 f#1 f#1 - f#1 - f#1 f#1] [f#1 f#1 f#1 - f#1 f#1 f#1 - f#1 - f#1 - f#1 f#1 f#1 -] [f#1 f#1 f#1 f#1 f#1 - f#1 - f#1 f#1 f#1 - f#1 - f#1 f#1] [f#1 f#1 f#1 - f#1 f#1 f#1 - f#1 - f#1 - f#1 f#1 f#1 -]
+[f#1 - f#1 f#1 f#1 - f#1 - f#1 f#1 f#1 - f#1 - f#1 f#1] [f#1 f#1 f#1 - f#1 f#1 f#1 - f#1 - f#1 - f#1 f#1 f#1 -] [f#1 f#1 f#1 f#1 f#1 - f#1 - f#1 f#1 f#1 - f#1 - f#1 f#1] [f#1 f#1 f#1 - f#1 f#1 f#1 - f#1 - f#1 - f#1 f#1 f#1 -]>`)
+$: note(`<
+[e2 - e2 e2 e2 - e2 - e2 e2 e2 - e2 - e2 e2] [e2 e2 e2 - e2 e2 e2 - e2 - e2 - e2 e2 e2 -] [e2 e2 e2 e2 e2 - e2 - e2 e2 e2 - e2 - e2 e2] [e2 e2 e2 - e2 e2 e2 - e2 - e2 - e2 e2 e2 -]
+[e2 - e2 e2 e2 - e2 - e2 e2 e2 - e2 - e2 e2] [e2 e2 e2 - e2 e2 e2 - e2 - e2 - e2 e2 e2 -] [e2 e2 e2 e2 e2 - e2 - e2 e2 e2 - e2 - e2 e2] [e2 e2 e2 - e2 e2 e2 - e2 - e2 - e2 e2 e2 -]>`)

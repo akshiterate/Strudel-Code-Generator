@@ -1,0 +1,13 @@
+setcpm(120/4)
+$: note(`<
+[[d2,a2] - - - a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2] [a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2] [[d2,a2] - - - a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2] [a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2]
+[[d2,a2] - - - a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2] [a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2] [[d2,a2] - - - a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2] [a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2 a#2]>`)
+$: note(`<
+[[d2,a2] - - - g2 g2 g2 g2 g2 g2 g2 g2 g2 g2 g2 g2] [g2 g2 g2 g2 g2 g2 g2 g2 f#2 f#2 f#2 f#2 f#2 f#2 f#2 f#2] [[d2,a2] - - - g2 g2 g2 g2 g2 g2 g2 g2 g2 g2 g2 g2] [g2 g2 g2 g2 g2 g2 g2 g2 f#2 f#2 f#2 f#2 f#2 f#2 f#2 f#2]
+[[d2,a2] - - - g2 g2 g2 g2 g2 g2 g2 g2 g2 g2 g2 g2] [g2 g2 g2 g2 g2 g2 g2 g2 f#2 f#2 f#2 f#2 f#2 f#2 f#2 f#2] [[d2,a2] - - - g2 g2 g2 g2 g2 g2 g2 g2 g2 g2 g2 g2] [g2 g2 g2 g2 g2 g2 g2 g2 f#2 f#2 f#2 f#2 f#2 f#2 f#2 f#2]>`)
+$: note(`<
+[d1 - - - a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1] [a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1] [d1 - - - a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1] [a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1]
+[d1 - - - a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1] [a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1] [d1 - - - a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1] [a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1 a#1]>`)
+$: note(`<
+[[c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2] [[c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2] [[c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2] [[c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2]
+[[c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2] [[c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2] [[c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2] [[c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2 [c2,e2,a#2] c2]>`)

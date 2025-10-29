@@ -1,0 +1,9 @@
+setcpm(120/4)
+$: note(`<
+[d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2] [[d2,f6,a6] [d2,e6,g6] [d2,f6,a6] [d2,d6,f6] [d2,f6,a6] [d2,a#5,e6] [d2,f6,a6] [d2,a5,d6] d2 d2 d2 d2 d2 d2 d2 d2] [d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2] [[d2,f3] [d2,e3] [d2,f3] [d2,d3] [d2,f3] [d2,a#2] [d2,f3] [d2,d3] d2 d2 d2 d2 d2 d2 d2 d2]
+[d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2] [[d2,f6,a6] [d2,e6,g6] [d2,f6,a6] [d2,d6,f6] [d2,f6,a6] [d2,a#5,e6] [d2,f6,a6] [d2,a5,d6] d2 d2 d2 d2 d2 d2 d2 d2] [d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2 d2] [[d2,f6,a6] [d2,e6,g6] [d2,f6,a6] [d2,d6,f6] [d2,f6,a6] [d2,a#5,e6] [d2,f6,a6] [d2,a5] d2 d2 d2 d2 d2 d2 d2 d2]>`)
+$: note(`<
+[- f5] [e5 f5 e5 c5 a4 - - -]>`)
+$: note(`<
+[d2,a2,d3,f3] [d2,a2,d3,f3] [d2,f2,a2,d3] [d2,f2,a2,d3]
+[d2,a2,d3,f3] [d2,a2,d3,f3] [d2,f2,a2,d3] [d2,f2,a2,d3]>`)

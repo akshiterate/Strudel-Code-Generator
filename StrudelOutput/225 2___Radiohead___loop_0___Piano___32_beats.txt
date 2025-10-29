@@ -1,0 +1,11 @@
+setcpm(120/4)
+$: note(`<
+[b4 b4 b4 b4 b4 b4 b4 b4 b4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 -] [[g#4,a4] a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 -] [[a4,a4] a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 a4 -] [[a4,g#4] g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 -]
+[[g#4,f#4] f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 -] [[f#4,g#4] g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 -] [[g#4,g#4] g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 g#4 -] [[g#4,f#4] f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 f#4 -]
+f#4>`)
+$: note(`<
+[[d3,a3,d4] [d3,a3,d4] [d3,a3,d4] [d3,a3,d4]] [[c#3,g#3,c#4] [c#3,g#3,c#4] [c#3,g#3,c#4] [c#3,g#3,c#4]] [[f#3,c#4,f#4] [f#3,c#4,f#4] [f#3,c#4,f#4] [f#3,c#4,f#4]] [[f3,c4,f4] [f3,c4,f4] [f3,c4,f4] [f3,c4,f4]]
+[[d3,a3,d4] [d3,a3,d4] [d3,a3,d4] [d3,a3,d4]] [[c#3,g#3,c#4] [c#3,g#3,c#4] [c#3,g#3,c#4] [c#3,g#3,c#4]] [[c#3,g#3,c#4] [c#3,g#3,c#4] [c#3,g#3,c#4] [c#3,g#3,c#4]] [[e3,b3,e4] [e3,b3,e4] [e3,b3,e4] [e3,b3,e4]]>`)
+$: note(`<
+[[c2,g#2,c#3] g#2 d2 c2 [g#2,e3] c2 d2 g#2] [[c2,g#2,c#3] g#2 d2 c2 [g#2,e3] c2 d2 g#2] [[c2,g#2,c#3] g#2 d2 c2 [g#2,e3] c2 d2 g#2] [[c2,g#2,c#3] g#2 d2 c2 [g#2,e3] c2 d2 g#2]
+[[c2,g#2,c#3] g#2 d2 c2 [g#2,e3] c2 d2 g#2] [[c2,g#2,c#3] g#2 d2 c2 [g#2,e3] c2 d2 g#2] [[c2,g#2,c#3] g#2 d2 c2 [g#2,e3] c2 d2 g#2] [[c2,g#2,c#3] g#2 d2 c2 [g#2,e3] c2 d2 g#2]>`)

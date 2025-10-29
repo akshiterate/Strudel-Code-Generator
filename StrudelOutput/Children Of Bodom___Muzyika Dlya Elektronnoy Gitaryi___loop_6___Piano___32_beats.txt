@@ -1,0 +1,6 @@
+setcpm(120/4)
+$: note(`<
+[e2 e2 e2 e2 - - - - e2 e2 e2 e2 - - - -] [e2 e2 e2 e2 - - - - e2 e2 e2 e2 e2 e2 e2 e2] [e2 e2 e2 e2 - - - - e2 e2 e2 e2 - - - -] [e2 e2 e2 e2 - - - - e2 e2 e2 e2 e2 e2 e2 e2]
+[e2 e2 e2 e2 - - - - e2 e2 e2 e2 - - - -] [e2 e2 e2 e2 - - - - e2 e2 e2 e2 e2 e2 e2 e2] [e2 e2 e2 e2 - - - - e2 e2 e2 e2 - - - -] [e2 e2 e2 e2 - - - - e2 e2 e2 e2 e2 e2 e2 e2]>`)
+$: note(`<
+e6 d6>`)

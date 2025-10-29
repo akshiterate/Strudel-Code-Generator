@@ -1,0 +1,21 @@
+setcpm(120/4)
+$: note(`<
+[c#4,e4]>`)
+$: note(`<
+[[c#3,g#4] g#3 c#4 d#4 e4 d#4 e4 f#4] [[a2,g#4] b3 e3 e4 a3 e3 f#4 b3] [[e2,e4] b2 e3 b2 g#3 e3 b2 e3] [[b2,d#4] e4 e3 f#4 f#3 e4 d#4 g#3]
+[[c#3,g#4] g#3 c#4 d#4 e4 d#4 e4 f#4] [[a2,g#4] b3 e3 e4 a3 e3 f#4 b3] [[e2,e4] b2 e3 b2 g#3 e3 b2 e3] [[b2,d#4] e4 e3 f#4 f#3 e4 d#4 g#3]>`)
+$: note(`<
+[[c#3,e4] g#3 c#4 g#3 c#4 g#3 e4 f#4] [[a2,g#4] e3 a3 e4 e3 a3 b3 g#4] [[e2,b4] g#3 e3 a#4 g#3 e3 g#4 g#3] [[b2,f#4] f#3 b3 f#3 b3 f#3 e4 f#4]
+[[c#3,e4] g#3 c#4 g#3 c#4 g#3 e4 f#4] [[a2,g#4] e3 a3 e4 e3 a3 b3 g#4] [[e2,b4] g#3 e3 a#4 g#3 e3 g#4 g#3] [[b2,f#4] f#3 b3 f#3 b3 f#3 e4 f#4]>`)
+$: note(`<
+e4>`)
+$: note(`<
+[c#3,c#4]>`)
+$: note(`<
+[c#3,g#3,c#4]>`)
+$: note(`<
+c#2 - - -
+- - - [- - - - - b2 g#2 f#2]>`)
+$: note(`<
+- - - -
+- - - [- b2]>`)
